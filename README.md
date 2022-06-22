@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Im KIM YANGJIN
+###  my name is  kimyangjin
+###  I'm learning coding
+###  My hobby is drawing and playing games
