@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 ###  my name is  kimyangjin
 ###  I'm learning coding
 ###  My hobby is drawing and playing games
-![KakaoTalk_20220620_222452525](https://user-images.githubusercontent.com/107318969/175048806-ad173412-bcec-4c75-b875-18d87956c093.jpg)
+![KakaoTalk_20220620_222452525](https://user-images.githubusercontent.com/107318969/175049136-16fd1485-c2ca-4770-ae48-b0a2f651a916.jpg)
+ 
