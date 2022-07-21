@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###  my name is  kimyangjin
+###  my name is KimYangJin
 ###  I'm learning coding
 ###  My hobby is drawing and playing games
 ![KakaoTalk_20220620_222452525](https://user-images.githubusercontent.com/107318969/175049136-16fd1485-c2ca-4770-ae48-b0a2f651a916.jpg)
