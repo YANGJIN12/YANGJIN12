@@ -39,7 +39,6 @@
 
 #### Starting
 <img src="https://img.shields.io/badge/C%23-3766AB?style=flat-square&logo=Csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/></a>
 
 
