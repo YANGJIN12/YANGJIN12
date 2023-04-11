@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-007396?style=flat-square&logo=R&logoColor=white"/>
-<img src="https://https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png"/>
+<img src="https://img.shields.io/badge/HTML-FF0000?style=flat-square&logo=HTML&logoColor=white"/></a>
 
 #### sub skills
 <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white"/></a>
