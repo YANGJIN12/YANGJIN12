@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg"/>
+<img src="https://"ISO_C++_Logo.svg.png/>
 
 #### sub skills
 <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white"/></a>
